@@ -1,4 +1,4 @@
 # practice
 about me
 personal info
-hi
+hi NOW
